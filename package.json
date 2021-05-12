@@ -27,7 +27,7 @@
     "@angular/router": "^8.2.12",
     "@angular/service-worker": "^8.2.12",
     "@cloudinary/angular-5.x": "^1.0.3",
-    "chart.js": "^2.9.1",
+    "chart.js": "^2.9.4",
     "classlist.js": "^1.1.20150312",
     "cloudinary-core": "^2.7.4",
     "core-js": "^3.3.4",
